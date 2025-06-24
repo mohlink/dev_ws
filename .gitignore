@@ -1,0 +1,25 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models (gros fichiers)
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Temporary files
+*.tmp
+*.bak
